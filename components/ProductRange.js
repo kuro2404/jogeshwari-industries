@@ -1,7 +1,6 @@
 import React, { useMemo } from "react";
 import Image from "next/image";
 import ButtonOutline from "./misc/ButtonOutline.";
-// import Maps from "../public/assets/HugeGlobal.svg";
 import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
@@ -80,7 +79,9 @@ const ProductRange = () => {
           </ScrollAnimationWrapper>
           <ScrollAnimationWrapper>
             <motion.div className="py-12 w-full px-8 mt-16" variants={scrollAnimation}>
-              {/* <Maps className="w-full h-auto" /> */}
+              <img 
+              src="/svgtopng/HugeGlobal.png"
+              />
             </motion.div>
           </ScrollAnimationWrapper>
         </div>
