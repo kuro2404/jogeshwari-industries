@@ -52,7 +52,7 @@ const ProductRange = () => {
                 className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-6 px-6 lg:px-12 xl:px-20"
                 
               >
-                <Image className="absolute h-[80%] ml-2"
+                <Image className="object-fill"
                   src="/assets/yuu.png"
                   width={100}
                   height={105}
