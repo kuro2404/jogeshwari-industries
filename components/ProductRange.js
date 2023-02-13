@@ -52,11 +52,12 @@ const ProductRange = () => {
                 className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-6 px-6 lg:px-12 xl:px-20"
                 
               >
-                <Image className="object-fill"
+                <Image className="absolute h-[80%] ml-2"
                   src="/assets/yuu.png"
                   width={100}
                   height={105}
                   alt="Ingots"
+                  className="object-fill"
                 />
                 <p className="text-lg text-black font-medium capitalize my-2 sm:my-7">
                 All grade aluminium shred
