@@ -57,7 +57,6 @@ const ProductRange = () => {
                   width={100}
                   height={105}
                   alt="Ingots"
-                  className="object-fill"
                 />
                 <p className="text-lg text-black font-medium capitalize my-2 sm:my-7">
                 All grade aluminium shred
