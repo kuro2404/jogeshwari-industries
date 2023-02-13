@@ -32,13 +32,13 @@ const ProductRange = () => {
           <div className="grid grid-flow-row sm:grid-flow-col grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-12 py-8 lg:py-12 px-6 sm:px-0 lg:px-6">
             <ScrollAnimationWrapper className="flex justify-center">
               <div
-                className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-4 px-6 lg:px-12 xl:px-20"
+                className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-6 px-6 lg:px-12 xl:px-20"
                 
               >
                 <Image
                   src="/assets/ingot.png"
-                  width={250}
-                  height={295}
+                  width={150}
+                  height={150}
                   alt="Ingots"
                   className="object-fill"
                 />
@@ -49,13 +49,13 @@ const ProductRange = () => {
             </ScrollAnimationWrapper>
             <ScrollAnimationWrapper className="flex justify-center">
               <div
-                className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-0 px-6 lg:px-12 xl:px-20"
+                className="flex justify-center h-[100px] items-center border-2 border-gray-500 rounded-xl py-6 px-6 lg:px-12 xl:px-20"
                 
               >
                 <Image
                   src="/assets/yuu.png"
-                  width={250}
-                  height={295}
+                  width={100}
+                  height={105}
                   alt="Ingots"
                   className="object-fill"
                 />
