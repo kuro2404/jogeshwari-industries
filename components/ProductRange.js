@@ -74,7 +74,7 @@ const ProductRange = () => {
               We import aluminium shred from all across the world.{" "}
             </motion.h3>
             <motion.p className="leading-normal  mx-auto my-2 w-10/12 sm:w-7/12 lg:w-6/12" variants={scrollAnimation}>
-              We at <strong>Jogeshwari Industries</strong> trade in Alumininum shred from all across the world
+              We at <strong>Jogeshwari Industries</strong> trade in Alumininum scrap from all across the world
             </motion.p>
           </ScrollAnimationWrapper>
           <ScrollAnimationWrapper>
