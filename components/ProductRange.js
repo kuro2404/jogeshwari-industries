@@ -54,8 +54,8 @@ const ProductRange = () => {
               >
                 <Image
                   src="/assets/yuu.png"
-                  width={120}
-                  height={120}
+                  width={150}
+                  height={150}
                   alt="Ingots"
                   className="object-fill"
                 />
