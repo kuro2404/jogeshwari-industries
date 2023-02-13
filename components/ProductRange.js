@@ -49,13 +49,13 @@ const ProductRange = () => {
             </ScrollAnimationWrapper>
             <ScrollAnimationWrapper className="flex justify-center">
               <div
-                className="flex justify-center h-[100px] items-center border-2 mt-[30px] sm lg:mt-[0px]  xl:mt-0 2xl:mt-0 md:mt-[0px] border-gray-500 rounded-xl py-4 px-6 lg:px-12 xl:px-20"
+                className="flex justify-center h-[100px] items-center border-2 mt-[30px] sm:mt-[0px] lg:mt-[0px]  xl:mt-0 2xl:mt-0 md:mt-[0px] border-gray-500 rounded-xl py-4 px-6 lg:px-12 xl:px-20"
                 
               >
                 <Image
                   src="/assets/yuu.png"
-                  width={150}
-                  height={150}
+                  width={120}
+                  height={120}
                   alt="Ingots"
                   className="object-fill"
                 />
