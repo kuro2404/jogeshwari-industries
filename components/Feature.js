@@ -5,8 +5,8 @@ import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
   "Manufacture of alloy ingots",
-  "Trade of Aluminium Scrap",
-  "Trade of Aluminium Scrap",
+  "Trade of Aluminium scrap",
+  "Trade of Aluminium Shred",
   "Manufacture of alloy ingots",
   "Import of aluminium scrap from all across the world.",
   "All types of metal business"
